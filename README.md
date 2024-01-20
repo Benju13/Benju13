@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Benju
-- 👀 I’m interested in forest ecology, carbon allocation and eddy covariance 
-- 🌱 I’m currently learning carbon all
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Reac me at Benju.baniya@tamu.edu
-- 😄 Pronouns: ... She/Her 
-- ⚡ Fun fact: ...
+👋 Howdy, My name is Benju. I am third year PhD student at Texas A&M University. I’m interested in forest ecology, carbon allocation, data analytics and eddy covariance system. Feel free to reach met at Benju.baniya@tamu.edu
+
 
 <!---
 Benju13/Benju13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
